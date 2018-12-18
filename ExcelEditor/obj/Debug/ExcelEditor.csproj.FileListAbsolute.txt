@@ -1,0 +1,14 @@
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\bin\Debug\ExcelEditor.exe.config
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\bin\Debug\ExcelEditor.exe
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\bin\Debug\ExcelEditor.pdb
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.csproj.ResolveComReference.cache
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.Form1.resources
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.Properties.Resources.resources
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.exe
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.pdb
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\bin\Debug\EPPlus.dll
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\bin\Debug\EPPlus.xml
+C:\Users\Giro\source\repos\ExcelEditor\ExcelEditor\obj\Debug\ExcelEditor.csproj.CopyComplete
